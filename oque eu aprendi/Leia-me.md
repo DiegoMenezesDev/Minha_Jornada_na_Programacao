@@ -1,9 +1,9 @@
-# Destaques ate o Momento
+# Destaques Ate o Momento
 
 ###### Estou Aprendendo Java , Java Script.
 
 
 
-# Oque quero Aprender Ainda
+# Oque Quero Aprender Ainda
 
 ###### .Lua, Phyton, C#, Flutter, Entre Outras Linguagens 
